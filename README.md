@@ -42,7 +42,7 @@ E-commerce de produtos tech criado com foco em boas práticas de Front-End e com
 
 🌐 **Telecom X 2**
 Identificar clientes com maior risco de evasão (churn) com machine learning.
-🔗 [Repositório no GitHub] (https://github.com/ajtoriani/Telecom-X-2)
+🔗 [Repositório no GitHub](https://github.com/ajtoriani/Telecom-X-2)
 
 
 🎭 **The Code Must Go On**  

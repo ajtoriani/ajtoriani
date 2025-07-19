@@ -60,4 +60,4 @@ Projeto autoral que une musicais e Python para ensinar programação com criativ
 
 > “Crio experiências que tocam, ajudam e encantam — entre códigos e palcos, o show continua!”
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img src="https://github.com/ajtoriani/ajtoriani/blob/main/aj-profile.png" width="500" alt="Ana Júlia desenvolvendo com criatividade" />

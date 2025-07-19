@@ -40,6 +40,11 @@ Análise preditiva de cancelamento de clientes com Python, Seaborn e Pandas.
 E-commerce de produtos tech criado com foco em boas práticas de Front-End e componentização.  
 🔗 [Repositório no GitHub](https://github.com/ajtoriani/Alura-Store)
 
+🌐 **Telecom X 2**
+Identificar clientes com maior risco de evasão (churn) com machine learning.
+🔗 [Repositório no GitHub] (https://github.com/ajtoriani/Telecom-X-2)
+
+
 🎭 **The Code Must Go On**  
 Projeto autoral que une musicais e Python para ensinar programação com criatividade.  
 🔗 [ Repositório no GitHub](https://github.com/ajtoriani/The-Code-Must-Go-On)

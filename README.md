@@ -1,4 +1,4 @@
-# ✨ Ana Julia Toriani Pessoa • AJ
+#  Ana Julia Toriani Pessoa • AJ
 
 🎭 Atriz que se apaixonou por códigos, design e dados.  
 🚀 Estudante em transição de carreira para Tecnologia, com foco em **UI/UX Design, Front-End e Data Science**.  
@@ -39,18 +39,18 @@ E-commerce de produtos tech criado com foco em boas práticas de Front-End e com
 
 🎭 **The Code Must Go On**  
 Projeto autoral que une musicais e Python para ensinar programação com criatividade.  
-🔗 [GitHub](https://github.com/ajtoriani/The-Code-Must-Go-On)
+🔗 [ Repositório no GitHub](https://github.com/ajtoriani/The-Code-Must-Go-On)
 
 ---
 
 ## 📈 GitHub Stats
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtoriani&show_icons=true&theme=radical)
 
----
+--- 
 
 ## 💙 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp)
-[![Portfólio](https://img.shields.io/badge/Portfólio-AJ_Toriani-FF69B4?style=for-the-badge)](https://ajtoriani.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
 
 ---
 

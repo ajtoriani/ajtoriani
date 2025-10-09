@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
 #  Ana Julia Toriani Pessoa • AJ
 
 🎭 Atriz que se apaixonou por códigos, design e dados.  

@@ -72,4 +72,4 @@ Projeto autoral que une musicais e Python para ensinar programação com criativ
 
 > “Crio experiências que tocam, ajudam e encantam — entre códigos e palcos, o show continua!”
 
-<img align="right" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<img align="center" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
 #  Ana Julia Toriani Pessoa • AJ
 
 🎭 Atriz que se apaixonou por códigos, design e dados.  
@@ -51,6 +51,11 @@ Projeto autoral que une musicais e Python para ensinar programação com criativ
 🔗 [ Repositório no GitHub](https://github.com/ajtoriani/The-Code-Must-Go-On)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📈 GitHub Stats
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtoriani&show_icons=true&theme=radical)

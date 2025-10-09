@@ -3,7 +3,7 @@
 
 🎭 Atriz que se apaixonou por códigos, design e dados.  
 🚀 Estudante em transição de carreira para Tecnologia, com foco em **UI/UX Design, Front-End e Data Science**.  
-🎨 Fundadora do Mia Quilate 🐾, une criatividade e estratégia para desenvolver soluções com alma — da tela ao palco.
+🎨 Fundadora do Mia Quilate 🐾, une criatividade e estratégia para desenvolver soluções com alma, da tela ao palco.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
@@ -70,6 +70,6 @@ Projeto autoral que une musicais e Python para ensinar programação com criativ
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
 ---
 
-> “Crio experiências que tocam, ajudam e encantam — entre códigos e palcos, o show continua!”
+> “Crio experiências que tocam, ajudam e encantam, entre códigos e palcos, o show continua!”
 
 <img align="center" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>

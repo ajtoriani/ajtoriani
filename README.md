@@ -2,7 +2,7 @@
 #  Ana Julia Toriani Pessoa • AJ
 
 🎭 Atriz que se apaixonou por códigos, design e dados.  
-🚀 Estudante em transição de carreira para Tecnologia, com foco em **UI/UX Design, Front-End e Data Science**.  
+🚀 Estudante em transição de carreira para Tecnologia, com foco em **UI/UX Design e Front-End**.  
 🎨 Fundadora do Mia Quilate 🐾, une criatividade e estratégia para desenvolver soluções com alma, da tela ao palco.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)

@@ -38,10 +38,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📈 GitHub Stats
-![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajtoriani&show_icons=true&theme=radical)
 
---- 
 
 ## 💙 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)

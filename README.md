@@ -42,6 +42,10 @@ Desenvolvo soluções que conectam estética visual, performance técnica e uso 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
+![Vercel Deploy](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 ## Projetos em Destaque
@@ -78,27 +82,21 @@ Aplicação que convida o usuário a refletir sobre seu nível de energia e esta
 
 ---
 
-### CalmaMente — Bem-Estar Digital
+### CalmaMente — Bem‑Estar Digital
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
 ![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Website que oferece um espaço digital acolhedor para apoio emocional e bem-estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
-**Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  
-**Repositório:** https://github.com/equipe-calmamente/site-production
+Website que oferece um espaço digital acolhedor para apoio emocional e bem‑estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
+
+ **Live Demo:** (https://equipe-calmamente.github.io/site-production/index.html)  
+ **Repositório:** (https://github.com/equipe-calmamente/site-production)
 ---
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
-</picture>
-
 
 
 ## Vamos nos conectar?

@@ -29,7 +29,7 @@ Desenvolvo soluções que conectam estética visual, performance técnica e uso 
 - Transforme-se Front End — _Serasa + Instituto Proa_
 - UX Design — _Santander + Alura_
 - Programa Bit — _L'Oréal + Vai na Web_
-- IA Generativa • Eng de Prompt — _Alura + Google_
+- IA Generativa + Eng de Prompt — _Alura + Google_
 - Design Gráfico — _FIAP_
 
 ---

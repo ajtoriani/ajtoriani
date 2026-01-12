@@ -10,7 +10,7 @@ UX/UI Designer e Front-End Developer focada em criar experiências digitais intu
 
 Atuo na interseção entre design e tecnologia, com UX Research, prototipação no Figma e desenvolvimento front-end (HTML, CSS e JavaScript).
 
-Desenvolvo soluções que conectam estética visual, performance técnica e uso estratégico de Inteligência Artificial..
+Desenvolvo soluções que conectam estética visual, performance técnica e uso estratégico de Inteligência Artificial.
 
 <div align="center">
 

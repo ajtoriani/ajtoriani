@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ana%20Julia%20Toriani%20Pessoa&textBg=false&animation=twinkling&desc=Front%20End%20Dev%20|%20UX%20UI%20Design&descAlignY=60&descAlign=50&fontAlignY=45" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
-#  Ana Julia Toriani Pessoa • AJ
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
 
-🎭 Atriz que se apaixonou por códigos, design e dados.  
-🚀 Estudante em transição de carreira para Tecnologia, com foco em **UI/UX Design e Front-End**.  
-🎨 Fundadora do Mia Quilate 🐾, une criatividade e estratégia para desenvolver soluções com alma, da tela ao palco.
+
+💻 UX/UI Designer e Front-End Developer focada em criar experiências digitais intuitivas, acessíveis e orientadas a negócio.
+🚀 Atuo na interseção entre design e tecnologia, com UX Research, prototipação no Figma e desenvolvimento front-end (HTML, CSS e JavaScript).
+✨ Desenvolvo soluções que conectam estética visual, performance técnica e uso estratégico de Inteligência Artificial..
 
 <div align="center">
 
@@ -27,6 +27,7 @@
 - UX Design — _Instituto Proa_
 - Transforme-se Front End -_Serasa + Instituto Proa_
 - UX Design -_Santander + Alura_
+-- Programa Bit - L'Oréal e Vai na Web
 
 ---
 
@@ -40,7 +41,43 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+---
+## 🚀 Projetos em Destaque
 
+### 🌱 Impacta Dev
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+Plataforma dedicada a conectar desenvolvedores iniciantes com ONGs e projetos sociais para **desenvolvimento colaborativo**, experiência prática com Git e construção de portfólio real. O foco é transformar código em impacto social e aprendizado real no desenvolvimento Web.  
+🔗 **Live Demo:** https://impacta-dev.vercel.app/index.html  
+📁 **Repositório:** https://github.com/ajtoriani/Impacta.Dev
+
+
+---
+
+### 🎧 Ritma — Foco & Fluidez
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+Aplicação que convida o usuário a refletir sobre seu nível de energia e estabelecer ciclos conscientes de foco e descanso. Projeto desenvolvido com foco em **interatividade, usabilidade e layout limpo**, usando HTML, CSS e JavaScript puros.  
+🔗 **Live Demo:** https://ajtoriani.github.io/Ritma/index.html  
+📁 **Repositório:** https://github.com/ajtoriani/Ritma
+
+---
+
+### 🧠 CalmaMente — Bem-Estar Digital
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+Website que oferece um espaço digital acolhedor para apoio emocional e bem-estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
+🔗 **Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  
+📁 **Repositório:** https://github.com/equipe-calmamente/site-production
 ---
 
 ---

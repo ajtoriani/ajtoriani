@@ -51,6 +51,9 @@ Desenvolvo soluções que conectam estética visual, performance técnica e uso 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
+![Vercel Deploy](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 Plataforma dedicada a conectar desenvolvedores iniciantes com ONGs e projetos sociais para **desenvolvimento colaborativo**, experiência prática com Git e construção de portfólio real. O foco é transformar código em impacto social e aprendizado real no desenvolvimento Web.  
  **Live Demo:** https://impacta-dev.vercel.app/index.html  
@@ -60,10 +63,14 @@ Plataforma dedicada a conectar desenvolvedores iniciantes com ONGs e projetos so
 ---
 
 ### Ritma — Foco & Fluidez
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
+
 
 Aplicação que convida o usuário a refletir sobre seu nível de energia e estabelecer ciclos conscientes de foco e descanso. Projeto desenvolvido com foco em **interatividade, usabilidade e layout limpo**, usando HTML, CSS e JavaScript puros.  
  **Live Demo:** https://ajtoriani.github.io/Ritma/index.html  
@@ -76,6 +83,9 @@ Aplicação que convida o usuário a refletir sobre seu nível de energia e esta
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 Website que oferece um espaço digital acolhedor para apoio emocional e bem-estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
 **Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  

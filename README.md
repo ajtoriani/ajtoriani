@@ -3,12 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ana%20Julia%20Toriani%20Pessoa&textBg=false&animation=twinkling&desc=Front%20End%20Dev%20|%20UX%20UI%20Design&descAlignY=60&descAlign=50&fontAlignY=45" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
 
 
-💻 UX/UI Designer e Front-End Developer focada em criar experiências digitais intuitivas, acessíveis e orientadas a negócio.
-🚀 Atuo na interseção entre design e tecnologia, com UX Research, prototipação no Figma e desenvolvimento front-end (HTML, CSS e JavaScript).
-✨ Desenvolvo soluções que conectam estética visual, performance técnica e uso estratégico de Inteligência Artificial..
+UX/UI Designer e Front-End Developer focada em criar experiências digitais intuitivas, acessíveis e orientadas a negócio.
+
+Atuo na interseção entre design e tecnologia, com UX Research, prototipação no Figma e desenvolvimento front-end (HTML, CSS e JavaScript).
+
+Desenvolvo soluções que conectam estética visual, performance técnica e uso estratégico de Inteligência Artificial..
 
 <div align="center">
 
@@ -20,7 +22,7 @@
 </div>
 
 
-## 📚 Formação & Estudos Atuais
+## Formação & Estudos Atuais
 - UI/UX Design • Marketing & E-commerce — _Google/Coursera_
 - Análise de Dados • Ciência de Dados — _Alura + Oracle Next Education_
 - Bootcamp de Desenvolvimento Front-End — _Santander + DIO_
@@ -31,7 +33,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+## Tecnologias e Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,42 +44,42 @@
 
 
 ---
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🌱 Impacta Dev
+### Impacta Dev
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Plataforma dedicada a conectar desenvolvedores iniciantes com ONGs e projetos sociais para **desenvolvimento colaborativo**, experiência prática com Git e construção de portfólio real. O foco é transformar código em impacto social e aprendizado real no desenvolvimento Web.  
-🔗 **Live Demo:** https://impacta-dev.vercel.app/index.html  
-📁 **Repositório:** https://github.com/ajtoriani/Impacta.Dev
+ **Live Demo:** https://impacta-dev.vercel.app/index.html  
+ **Repositório:** https://github.com/ajtoriani/Impacta.Dev
 
 
 ---
 
-### 🎧 Ritma — Foco & Fluidez
+### Ritma — Foco & Fluidez
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Aplicação que convida o usuário a refletir sobre seu nível de energia e estabelecer ciclos conscientes de foco e descanso. Projeto desenvolvido com foco em **interatividade, usabilidade e layout limpo**, usando HTML, CSS e JavaScript puros.  
-🔗 **Live Demo:** https://ajtoriani.github.io/Ritma/index.html  
-📁 **Repositório:** https://github.com/ajtoriani/Ritma
+ **Live Demo:** https://ajtoriani.github.io/Ritma/index.html  
+ **Repositório:** https://github.com/ajtoriani/Ritma
 
 ---
 
-### 🧠 CalmaMente — Bem-Estar Digital
+### CalmaMente — Bem-Estar Digital
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Website que oferece um espaço digital acolhedor para apoio emocional e bem-estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
-🔗 **Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  
-📁 **Repositório:** https://github.com/equipe-calmamente/site-production
+**Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  
+**Repositório:** https://github.com/equipe-calmamente/site-production
 ---
 
 ---
@@ -89,7 +91,7 @@ Website que oferece um espaço digital acolhedor para apoio emocional e bem-esta
 
 
 
-## 💙 Vamos nos conectar?
+## Vamos nos conectar?
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anajuliatoriani/)
@@ -101,6 +103,6 @@ Website que oferece um espaço digital acolhedor para apoio emocional e bem-esta
 
 ---
 
-> “Crio experiências que tocam, ajudam e encantam, entre códigos e palcos, o show continua!”
+> “Entre códigos e interfaces, crio experiências digitais que encantam, resolvem problemas e conectam pessoas.”
 
 <img align="center" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>

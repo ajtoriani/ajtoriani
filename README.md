@@ -1,4 +1,4 @@
-<!-- BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ana%20Julia%20Toriani%20Pessoa&textBg=false&animation=twinkling&desc=Front%20End%20Dev%20|%20UX%20UI%20Design&descAlignY=60&descAlign=50&fontAlignY=45" />
 </p>
@@ -111,4 +111,6 @@ Website que oferece um espaço digital acolhedor para apoio emocional e bem‑es
 
 > “Entre códigos e interfaces, crio experiências digitais que encantam, resolvem problemas e conectam pessoas.”
 
+<p align="center">
 <img align="center" height="240" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+</p>

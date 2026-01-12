@@ -40,11 +40,7 @@ Desenvolvo soluções que conectam estética visual, performance técnica e uso 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)
-![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)
-![Vercel Deploy](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Responsive](https://img.shields.io/badge/Responsive-0078d7?style=for-the-badge)![Acessibilidade](https://img.shields.io/badge/Accessibility-4CAF50?style=for-the-badge)![Vercel Deploy](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ---
@@ -94,8 +90,9 @@ Aplicação que convida o usuário a refletir sobre seu nível de energia e esta
 
 Website que oferece um espaço digital acolhedor para apoio emocional e bem‑estar mental, com foco em conteúdo inspirador e interface intuitiva. Construído em equipe com HTML, CSS e JavaScript, priorizando **acessibilidade e comunicação visual leve**.  
 
- **Live Demo:** (https://equipe-calmamente.github.io/site-production/index.html)  
- **Repositório:** (https://github.com/equipe-calmamente/site-production)
+ **Live Demo:** https://equipe-calmamente.github.io/site-production/index.html  
+ **Repositório:** https://github.com/equipe-calmamente/site-production
+
 ---
 
 

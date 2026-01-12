@@ -24,12 +24,13 @@ Desenvolvo soluções que conectam estética visual, performance técnica e uso 
 
 ## Formação & Estudos Atuais
 - UI/UX Design • Marketing & E-commerce — _Google/Coursera_
-- Análise de Dados • Ciência de Dados — _Alura + Oracle Next Education_
 - Bootcamp de Desenvolvimento Front-End — _Santander + DIO_
 - UX Design — _Instituto Proa_
 - Transforme-se Front End -_Serasa + Instituto Proa_
 - UX Design -_Santander + Alura_
--- Programa Bit - L'Oréal e Vai na Web
+- Programa Bit - _L'Oréal + Vai na Web_
+- Análise de Dados • Ciência de Dados — _Alura + Oracle Next Education_
+- Design Gráfico - _FIAP_
 
 ---
 

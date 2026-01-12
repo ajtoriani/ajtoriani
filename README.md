@@ -1,3 +1,8 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ana%20Julia%20Toriani%20Pessoa&textBg=false&animation=twinkling&desc=Front%20End%20Dev%20|%20UX%20UI%20Design&descAlignY=60&descAlign=50&fontAlignY=45" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil+do+GitHub+!+:%29)](https://git.io/typing-svg)
 #  Ana Julia Toriani Pessoa • AJ
 
